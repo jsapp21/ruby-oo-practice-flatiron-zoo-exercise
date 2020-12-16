@@ -37,3 +37,6 @@ _Keep in mind that in order to properly build out the relationships between an `
 - `Animal.find_by_species` should take in an animal's species as an argument and return an array of all the animals, which are of that species.
 
 There are no `rspec` files, so it's up to you to test your code within the `run.rb` file.
+
+
+Zoo -------- < Animal 
